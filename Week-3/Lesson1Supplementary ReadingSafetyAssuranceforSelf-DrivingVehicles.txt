@@ -1,0 +1,8 @@
+Supplementary Reading: Safety Assurance for Self-Driving Vehicles
+We have a couple of links in this Supplementary Reading discussing various aspects of safety assurance. 
+
+Here's a link for NTSB's Report on the 2018 Uber Crash. 
+
+Check out Dr. Krzysztof Czarnecki'spaper on WISE Drive: Requirements Analysis Framework for Automated Driving Systems. You will watch an interview with Dr. Czarnecki's later in this Module. 
+
+Learn more about the non-mandatory safety guidelines for autonomous cars in the NHTSA - Automated Driving Systems: A Vision for Safety 2.0 report. 
